@@ -1,0 +1,4 @@
+jupyternotebook/.ipynb_checkpoints/
+downloads/
+*.pkg
+*.exe
